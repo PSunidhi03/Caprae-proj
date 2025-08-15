@@ -118,8 +118,7 @@ const AppSidebar = () => {
           {!collapsed && (
             <div className="flex-1 min-w-0">
               <p className="text-sm font-medium text-sidebar-foreground truncate">
-                John Doe
-              </p>
+                Anne Smith              </p>
               <p className="text-xs text-sidebar-foreground/70 truncate">
                 Seller Account
               </p>

@@ -28,7 +28,7 @@ const Profile = () => {
   };
 
   const ownerData = {
-    name: "John Doe",
+    name: "Anne Smith",
     title: "CEO & Founder",
     experience: "15+ years",
     previousExits: 2,
